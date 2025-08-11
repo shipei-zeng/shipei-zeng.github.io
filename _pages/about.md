@@ -13,6 +13,18 @@ Shipei Zeng is a Research Scientist at the AIM Center of [Shenzhen Research Inst
 曾诗培，[深圳市大数据研究院](https://www.sribd.cn/)AIM中心研究科学家。中国人民大学经济学学士、硕士，澳大利亚新南威尔士大学经济学博士。主要研究领域为数字经济、经济统计、计算社会科学。开发经济测度指数方法R语言开源工具“[dfvad](https://cran.r-project.org/web/packages/dfvad/index.html)”（CRAN官方收录）。在相关领域国际主流期刊（包括*Journal of Forecasting*、*Computational Economics*、*Information and Software Technology*等）发表论文多篇；多项数字化算法技术获国家发明专利。作为负责人或主要参与人承担国家、省、市级科研项目，包括国家自然科学基金项目、江苏省决策咨询研究基地课题。兼任[香港中文大学（深圳）人文社科学院](https://hss.cuhk.edu.cn/page/1350)客座学者，开展计算社会科学研究。推动生成式AI评测、可解释AI、集成学习等技术成果在政务领域（如政数、人才、科创），以及金融、能源、通信企业项目中的转化应用。
 
 
-For more info
+Honours and Awards
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+1. Project Management Professional, PMI, Mar., 2023
+
+1. Pengcheng Peacock Plan Scholar, Shenzhen, Dec., 2021
+
+1. Among the Top 10 in AI Developer Competition, iFLYTEK, Nov., 2021
+
+1. Reward in SODiC Data Competition, Guangdong GSDA, Sept., 2021
+
+1. Best Discussant Award, School of Economics, UNSW Sydney, Nov., 2020
+
+1. Reward in Digital Sichuan Innovation Competition, Sichuan Big Data Center, Nov., 2020
+
+1. Runner-up in AI Developer Competition, iFLYTEK, Oct., 2020
