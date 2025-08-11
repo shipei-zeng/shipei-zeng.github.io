@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 excerpt: '**Shipei Zeng**, Kevin Fox*'
 date: 2025-06-08
-venue: 'Journal test'
+venue: 'Australian Economic Review (SSCI)'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014'
 ---
 
