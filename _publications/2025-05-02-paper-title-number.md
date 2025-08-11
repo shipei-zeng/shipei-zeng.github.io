@@ -4,6 +4,6 @@ collection: publications
 category: manuscripts
 excerpt: '**Shipei Zeng**, Shan Dai*'
 date: 2025-05-02
-venue: 'International Review of Finance'
+venue: 'International Review of Finance (SSCI)'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021'
 ---
