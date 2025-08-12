@@ -4,4 +4,4 @@ title: "Research"
 ---
 Journal Articles
 ------
-1. <u>Shipei Zeng</u> ; Kevin Fox*. 
+1. __Shipei Zeng__; Kevin Fox*. 
