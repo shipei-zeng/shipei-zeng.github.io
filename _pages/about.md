@@ -28,6 +28,7 @@ Teaching and Mentoring
 **The Chinese University of Hong Kong, Shenzhen**
 
 [Joint PhD Program](https://www.sribd.cn/en/article/928), Co-Supervisor, Sept., 2023--Sept., 2024
+
 [Summer Lab Research Program](https://www.science.nus.edu.sg/wp-content/uploads/2023/01/CUHK-SZ-SLR-Programme-2023.pdf), Mentor, Summer Term, 2023
 	
 **University of New South Wales**
