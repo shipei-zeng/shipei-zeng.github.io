@@ -1,8 +1,6 @@
 ---
 permalink: /activities/
-title: "Academic Activities"
 ---
-
 Teaching and Mentoring
 ------
 **The Chinese University of Hong Kong, Shenzhen**
