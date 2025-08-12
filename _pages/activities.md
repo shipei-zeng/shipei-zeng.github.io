@@ -1,6 +1,6 @@
 ---
-permalink: /projects/
-title: "Projects"
+permalink: /activities/
+title: "Academic Activities"
 ---
 
 Industry Sponsored Projects (PI)
