@@ -2,37 +2,16 @@
 permalink: /projects/
 title: "Research Projects"
 ---
-1. Associate Editor: ACM Transactions on Software Engineering and Methodology (TOSEM), 2023 - Now
 
-## 2024
-- Program Committee -- 46th International Conference on Software Engineering (ICSE 2024)
-- Program Committee -- 33rd ACM International Conference on the Foundations of Software Engineering (FSE 2024)
+Industry Sponsored Projects
+------
+1. Leading AI Technology Enterprise, _Evaluation strategies of large language models applied to public affairs_, 2025-02 to 2025-03 • Principal Investigator
+1. Major Telecommunications Operator (Hong Kong), _Big data and AI application collaborative R&D: Building an integrity system based on mobile user behavior_, 2024-08 to 2026-02 • Co-Principal Investigator
+1. Technology Enterprise, _Shenzhen digital talent survey_, 2024-07 to 2024-10 • Principal Investigator
+1. Large State-owned Commercial Bank (Shenzhen Branch), _Greater wealth management_, 2022-07 to 2024-08 • Principal Investigator
+1. State-owned Power Grid Enterprise, Digital grid open-source community operation model design and prototype system construction_, 2022-11 to 2024-06, Principal Investigator
+1. Sustainable Digital Technology Startup, _Research on the elderly care industry_, 2023-02 to 2023-03 • Principal Investigator
+1. Shenzhen-based Financial Research Institute, _Specific customer groups and supporting industries_, 2022-04 to 2022-07 • Principal Investigator
+1. Joint-stock Commercial Bank (Shenzhen Branch), _Flash loan business development strategy in the big data era_, 2021-12 to 2022-05 • Co-Principal Investigator
+1. Leading Payment Platform, _Digital currency development trends and regulatory recommendations_, 2021-12 to 2022-03 • Co-Principal Investigator
 
-## 2023
-- Program Committee -- 32nd ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2023)
-- Program Committee -- 30th IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER 2023) (Research Track, ERA Track)
-- Program Committee -- 34th IEEE International Symposium on Software Reliability Engineering (ISSRE 2023)
-- Program Committee -- 30th Asia-Pacific Software Engineering Conference (APSEC 2023)
-- Program Committee -- 8th International Workshop on Metamorphic Testing (co-located with ICSE 2023)
-- Program Committee -- 3rd AIOPS Workshop (co-located with ICDM 2023)
-- External Review Committee/Artifact Evaluation Committee -- ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2023)
-
-## 2022
-- Program Committee -- 33rd IEEE International Symposium on Software Reliability Engineering (ISSRE 2022) (**Distinguished Reviewer Award**)
-- Program Committee -- Workshop on AI and Software Testing/Analysis (co-located with ISSTA 2022)
-- Program Committee -- 7th International Workshop on Metamorphic Testing (co-located with ICSE 2022)
-- External Review Committee/Artifact Evaluation Committee -- ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2022) 
-- Artifact Evaluation Committee -- 49th ACM SIGPLAN Symposium on Principles of Programming Languages (POPL 2022)
-
-## 2021
-- Program Committee -- 6th International Workshop on Metamorphic Testing (co-located with ICSE 2021) 
-- Program Committee -- Dependable and Secure Machine Learning (co-located with DSN 2021) 
-- Program Committee -- Workshop on AI and Software Testing/Analysis (co-located with ISSTA 2021)
-- Artifact Evaluation Committee -- ACM SIGPLAN International Conference on Object-Oriented Programming Systems, Languages, and Applications (OOPSLA 2021)
-- Artifact Evaluation Committee -- 35th European Conference on Object-Oriented Programming (ECOOP 2021)
-
-## 2020
-- Artifact Evaluation Committee -- 34th European Conference on Object-Oriented Programming (ECOOP 2020)
-
-## 2019
-- Program Committee -- 34th IEEE/ACM International Conference on Automated Software Engineering (ASE 2019) (Demonstrations Track)
