@@ -23,6 +23,15 @@ Honours and Awards
 1. Reward in Digital Sichuan Innovation Competition, Sichuan Big Data Center, Nov., 2020
 1. Runner-up in AI Developer Competition, iFLYTEK, Oct., 2020
 
+Teaching and Mentoring
+------
+**The Chinese University of Hong Kong, Shenzhen**
+[Joint PhD Program](https://www.sribd.cn/en/article/928), Co-Supervisor, Sept., 2023--Sept., 2024
+[Summer Lab Research Program](https://www.science.nus.edu.sg/wp-content/uploads/2023/01/CUHK-SZ-SLR-Programme-2023.pdf), Mentor, Summer Term, 2023
+	
+**University of New South Wales**
+ECON5257 Introductory Statistics and Data Analysis, Tutor, Semester 3, 2019
+
 Coding
 ------
 [DFVAD R Package](https://cran.rstudio.com/web/packages/dfvad/index.html): This R computing package, which I am the author of, helps to identify the main drivers of productivity and economic growth. It has been officially approved by CRAN and is utilized by researchers interested in economic growth studies, with **18,000+** downloads. Value added growth can be broken down into explanatory elements using the R coding tools it offers. The production frontier is specified using a cost constrained value added function. A weighted average method can also be used to aggregate industry estimations. Details about the methodology and data can be found in [Diewert and Fox (2018)](https://academic.oup.com/edited-volume/41719/chapter-abstract/354003191?redirectedFrom=fulltext) and [Zeng, Parsons, Diewert and Fox (2018)](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf).
