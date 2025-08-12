@@ -40,8 +40,4 @@ Presentations and Talks
 - [Evaluation Society Conference](https://mp.weixin.qq.com/s/64PAUxEkqe9GdTMwKMRrCA), **Roundtable Guest**, Hangzhou, China, June, 2023 
 - [Society for Economic Measurement Conference](https://sem-society.org/sem-2019-sixth-annual-conference-goethe-university-frankfurt-germany/), Frankfurt, Germany, Aug., 2019
 - Productivity Research Network Fourth Conference, Sydney, Australia, May, 2019
-- Forum of Chinese Energy and Environmental Economists, Xiamen, China, May, 2017	
-
-Coding
-------
-[DFVAD R Package](https://cran.rstudio.com/web/packages/dfvad/index.html): This R computing package, which I am the author of, helps to identify the main drivers of productivity and economic growth. It has been officially approved by CRAN and is utilized by researchers interested in economic growth studies, with **18,000+** downloads. Value added growth can be broken down into explanatory elements using the R coding tools it offers. The production frontier is specified using a cost constrained value added function. A weighted average method can also be used to aggregate industry estimations. Details about the methodology and data can be found in [Diewert and Fox (2018)](https://academic.oup.com/edited-volume/41719/chapter-abstract/354003191?redirectedFrom=fulltext) and [Zeng, Parsons, Diewert and Fox (2018)](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf).
+- Forum of Chinese Energy and Environmental Economists, Xiamen, China, May, 2017
