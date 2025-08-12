@@ -35,6 +35,22 @@ Teaching and Mentoring
 
 ECON5257 Introductory Statistics and Data Analysis, Tutor, Semester 3, 2019
 
+Presentations and Talks
+------
+[CUHK-SZ HSS Lecture](https://hss.cuhk.edu.cn/event/1424), **Invited Speaker**, Shenzhen, China, Oct., 2024
+	
+UPDIS Smart City Lecture, **Invited Speaker**, Shenzhen, China, Jan., 2024
+
+[Longgang Industry Alliance Lecture](https://mp.weixin.qq.com/s/OukZ2f5zh07VhxOrXAGYfg), **Invited Speaker**, Shenzhen, China, Oct., 2023
+
+[Evaluation Society Conference](https://mp.weixin.qq.com/s/64PAUxEkqe9GdTMwKMRrCA), **Roundtable Guest**, Hangzhou, China, June, 2023 
+
+[Society for Economic Measurement Conference](https://sem-society.org/sem-2019-sixth-annual-conference-goethe-university-frankfurt-germany/), Frankfurt, Germany, Aug., 2019
+
+Productivity Research Network Fourth Conference, Sydney, Australia, May, 2019
+
+Forum of Chinese Energy and Environmental Economists, Xiamen, China, May, 2017	
+
 Coding
 ------
 [DFVAD R Package](https://cran.rstudio.com/web/packages/dfvad/index.html): This R computing package, which I am the author of, helps to identify the main drivers of productivity and economic growth. It has been officially approved by CRAN and is utilized by researchers interested in economic growth studies, with **18,000+** downloads. Value added growth can be broken down into explanatory elements using the R coding tools it offers. The production frontier is specified using a cost constrained value added function. A weighted average method can also be used to aggregate industry estimations. Details about the methodology and data can be found in [Diewert and Fox (2018)](https://academic.oup.com/edited-volume/41719/chapter-abstract/354003191?redirectedFrom=fulltext) and [Zeng, Parsons, Diewert and Fox (2018)](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf).
