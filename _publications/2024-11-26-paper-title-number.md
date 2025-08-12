@@ -1,10 +1,10 @@
 ---
-title: "Fire prediction and risk identification with interpretable machine learning"
+title: "Random forests with economic roots: Explaining machine learning in hedonic imputation"
 collection: publications
 category: manuscripts
-excerpt: 'Shan Dai, Jiayu Zhang, Zhelin Huang, **Shipei Zeng***'
-date: 2025-03-02
-venue: 'Journal of Forecasting'
-paperurl: 'https://onlinelibrary.wiley.com/doi/10.1002/for.3266?af=R'
+excerpt: '**Shipei Zeng***, Deyu Rao'
+date: 2024-11-26
+venue: 'Computational Economics (SCI/SSCI)'
+paperurl: 'https://link.springer.com/article/10.1007/s10614-024-10798-9'
 ---
 
