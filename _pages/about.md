@@ -15,13 +15,13 @@ Shipei Zeng is a Research Scientist at the AIM Center of [Shenzhen Research Inst
 
 Honours and Awards
 ------
-1. Project Management Professional, PMI, Mar., 2023
-1. Pengcheng Peacock Plan Scholar, Shenzhen, Dec., 2021
-1. Among the Top 10 in AI Developer Competition, iFLYTEK, Nov., 2021
-1. Reward in SODiC Data Competition, Guangdong GSDA, Sept., 2021
-1. Best Discussant Award, School of Economics, UNSW Sydney, Nov., 2020
-1. Reward in Digital Sichuan Innovation Competition, Sichuan Big Data Center, Nov., 2020
-1. Runner-up in AI Developer Competition, iFLYTEK, Oct., 2020
+- Project Management Professional, PMI, Mar., 2023
+- Pengcheng Peacock Plan Scholar, Shenzhen, Dec., 2021
+- Among the Top 10 in AI Developer Competition, iFLYTEK, Nov., 2021
+- Reward in SODiC Data Competition, Guangdong GSDA, Sept., 2021
+- Best Discussant Award, School of Economics, UNSW Sydney, Nov., 2020
+- Reward in Digital Sichuan Innovation Competition, Sichuan Big Data Center, Nov., 2020
+- Runner-up in AI Developer Competition, iFLYTEK, Oct., 2020
 
 Teaching and Mentoring
 ------
