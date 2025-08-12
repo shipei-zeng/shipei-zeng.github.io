@@ -2,6 +2,10 @@
 permalink: /research/
 title: "Research"
 ---
+Fields of Interest
+------
+Digital Economy, Economic Statistics, Computational Social Science
+
 Journal Articles
 ------
 1. __Shipei Zeng__; Kevin Fox*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, June 8: 1-10 (SSCI)
