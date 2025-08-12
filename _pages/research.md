@@ -1,6 +1,6 @@
 ---
-permalink: /services/
-title: "Services"
+permalink: /research/
+title: "Research"
 ---
 1. Associate Editor: ACM Transactions on Software Engineering and Methodology (TOSEM), 2023 - Now
 
