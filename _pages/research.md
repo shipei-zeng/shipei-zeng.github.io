@@ -50,4 +50,9 @@ Patents
 3. Credit evaluation: method, apparatus, and storage medium, CN202510682938.4
 4. Telephone number recognition: method, apparatus, electronic device, and storage medium, CN202510117371.6
 5. Enterprise evaluation accuracy enhancement: method, apparatus, computer device, and medium, CN202311395648.9
-6. Multi-source data fusion machine learning for fire prediction and hazard identification: method and system, CN202210977272.1	
+6. Multi-source data fusion machine learning for fire prediction and hazard identification: method and system, CN202210977272.1
+
+
+Coding
+------
+[DFVAD R Package](https://cran.rstudio.com/web/packages/dfvad/index.html): This R computing package, which I am the author of, helps to identify the main drivers of productivity and economic growth. It has been officially approved by CRAN and is utilized by researchers interested in economic growth studies, with **18,000+** downloads. Value added growth can be broken down into explanatory elements using the R coding tools it offers. The production frontier is specified using a cost constrained value added function. A weighted average method can also be used to aggregate industry estimations. Details about the methodology and data can be found in [Diewert and Fox (2018)](https://academic.oup.com/edited-volume/41719/chapter-abstract/354003191?redirectedFrom=fulltext) and [Zeng, Parsons, Diewert and Fox (2018)](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf).
