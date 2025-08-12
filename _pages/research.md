@@ -25,7 +25,7 @@ Conferences
 1. Kevin Fox*; Khanh Hoang; __Shipei Zeng__. Value added and productivity decompositions with natural capital. _ESCoE Conference on Economic Measurement 2018, Bank of England_. London, the UK, from 2018-5-16 to 2018-5-17
 1. Zhanming Chen; __Shipei Zeng__; Leo Lester; Xiaohua Xia; Linting Zhang. How costly is China's oil import? Welfare loss estimation of foreign oil dependence 2001–2015. _40th IAEE International Conference_. Singapore, from 2017-6-18 to 2017-6-21
 1. __Shipei Zeng__; Zhanming Chen*; Jin Guo. Price elasticities of residential natural gas demand in China: Evidence from household-level survey data. *The 19th Annual Conference of Systems Engineering Society of China*. Beijing, China, from 2016-10-28 to 2016-10-31
-1. __Shipei Zeng__; Hanwen Wang; Zhanming Chen*; Rong Yu. [Derived from OSMM method: A plain analysis about oil security cost to China’s economy](https://link.springer.com/chapter/10.1007/978-3-662-44085-8_19). _2014 1st International Conference on Industrial Economics and Industrial Security_. Beijing, China, from 2014-7-23 to 2014-7-26
+1. __Shipei Zeng__; Hanwen Wang; Zhanming Chen; Rong Yu. [Derived from OSMM method: A plain analysis about oil security cost to China’s economy](https://link.springer.com/chapter/10.1007/978-3-662-44085-8_19). _2014 1st International Conference on Industrial Economics and Industrial Security_. Beijing, China, from 2014-7-23 to 2014-7-26
 
 Reports
 ------
