@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-title: "Projects"
+title: "Recent Projects"
 ---
 
 Industry Sponsored Projects (PI)
