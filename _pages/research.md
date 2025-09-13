@@ -8,12 +8,12 @@ Digital Economy, Economic Statistics, Computational Social Science
 
 Journal Articles
 ------
+1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457-2481 (SCI & SSCI)
 1. __Shipei Zeng__; Kevin Fox\*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, June 8: 1-10 (SSCI)
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_ 2025, May 2: 1-27 (SSCI)
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_ 2025, May 2: 1-19.
 1. Shan Dai; Jiayu Zhang; Zhelin Huang; __Shipei Zeng__\*. [Fire prediction and risk identification with interpretable machine learning](https://onlinelibrary.wiley.com/doi/10.1002/for.3266?af=R). _Journal of Forecasting_, 2025, Mar 2: 1-17 (SSCI)
-1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2024, Nov 26: 1-25 (SCI & SSCI)
-1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167, 107391 (SCI)
+1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167: 107391 (SCI)
 1. __Shipei Zeng__; Zhanming Chen\*; Ahmed Alsaedi; Tasawar Hayat. [Price elasticity, block tariffs, and equity of natural gas demand in China: Investigation based on household-level survey data](https://www.sciencedirect.com/science/article/abs/pii/S0959652618301458). _Journal of Cleaner Production_, 2018, 179: 441-449 (SCI)
 1. Zhanming Chen\*; __Shipei Zeng__; Leo Lester; Lin-Ting Zhang; Xiaohua Xia; Shiyun Xu\*; Ahmed Alsaedi; Tasawar Hayat. [Economic cost of China’s oil import: Welfare estimation for 2001–2015](https://www.sciencedirect.com/science/article/abs/pii/S0921344918300399). _Resources, Conservation and Recycling_, 2018, 132: 158-167 (SCI)
 1. __Shipei Zeng__; Zhanming Chen\*. [Impact of fossil fuel subsidy reform in China: Estimations of household welfare effects based on 2007–2012 data](https://www.tandfonline.com/doi/full/10.1080/20954816.2016.1218669). _Economic and Political Studies_, 2016, 4: 299-318
@@ -46,11 +46,12 @@ Book Chapters
 Patents
 ------
 1. Coordinate coding-based quantitative index system generation and diagnosis: method and system, ZL202310339635.3
-2. Text analysis-based scientific research project output evaluation and acceptance: method and system, ZL202211251387.9
-3. Credit evaluation: method, apparatus, and storage medium, CN202510682938.4
-4. Telephone number recognition: method, apparatus, electronic device, and storage medium, CN202510117371.6
-5. Enterprise evaluation accuracy enhancement: method, apparatus, computer device, and medium, CN202311395648.9
-6. Multi-source data fusion machine learning for fire prediction and hazard identification: method and system, CN202210977272.1
+1. Text analysis-based scientific research project output evaluation and acceptance: method and system, ZL202211251387.9
+1. Quantifiable indicator system construction based on semantic extraction and alignment: method and apparatus, CN202511277341.8
+1. Credit evaluation: method, apparatus, and storage medium, CN202510682938.4
+1. Telephone number recognition: method, apparatus, electronic device, and storage medium, CN202510117371.6
+1. Enterprise evaluation accuracy enhancement: method, apparatus, computer device, and medium, CN202311395648.9
+1. Multi-source data fusion machine learning for fire prediction and hazard identification: method and system, CN202210977272.1
 
 
 Coding
