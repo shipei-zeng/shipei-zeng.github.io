@@ -2,7 +2,8 @@
 permalink: /projects/
 title: "Key Projects"
 ---
-   ------
+
+
    Public-Governance AI: Applications and Evaluation
    ------
 1. **Leading AI Technology Enterprise** (PI, RMB 198,000): _Evaluation strategies of large language models applied to public affairs_, Feb. 2025 -- Mar. 2025
