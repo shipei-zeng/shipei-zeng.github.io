@@ -2,8 +2,9 @@
 permalink: /projects/
 title: "Key Projects"
 ---
-Public-Governance AI: Applications and Evaluation
 ------
+   Public-Governance AI: Applications and Evaluation
+   ------
 1. **Leading AI Technology Enterprise** (PI, RMB 198,000): _Evaluation strategies of large language models applied to public affairs_, Feb. 2025 -- Mar. 2025
 2. **Technology Enterprise** (PI, RMB 97,850): _Shenzhen digital talent survey_, July 2024 -- Oct. 2024
 3. **State-owned Power Grid Enterprise** (PI, RMB 2,200,000): _Digital grid open-source community operation model design and prototype system construction_, Nov. 2022 -- June 2024
