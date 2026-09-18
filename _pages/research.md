@@ -10,7 +10,7 @@ title: "Research Outcomes"
 - Anomaly detection and risk decision support across finance, energy, and public safety
 
    ## Publications
-   ### Selected Publications
+   ** Selected Publications **
 1. Zhangjie Huang, Hanli Lin, Jie Chen, Li Ai, Danlan Li, Yue Li, __Shipei Zeng__\*, Zhuodong Liu\*. [Impact of diagnosis-intervention packet compliance training on inpatient expenditures under case-based payment reform: A quasi-experimental study based on discharge records](https://www.dovepress.com/impact-of-diagnosis-intervention-packet-compliance-training-on-inpatie-peer-reviewed-fulltext-article-JMDH). _Journal of Multidisciplinary Healthcare_, 2026, 19: 621929 (SCI)
 1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457-2481 (SCI & SSCI)
 1. __Shipei Zeng__; Kevin Fox\*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, June 8: 1-10 (SSCI)
