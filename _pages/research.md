@@ -3,8 +3,7 @@ permalink: /research/
 title: "Research Outcomes"
 ---
 <h2 style="margin-left: 40px;">Fields of Interest</h2>
-<h3 style="margin-left: 40px;">Digital Economy | Digital Government | AI for Social Science</h3>
-
+**Digital Economy | Digital Government | AI for Social Science**
 - AI evaluation, domain-specific LLMs, and data-driven intelligent governance for public services
 - Productivity and economic measurement using large-scale micro-level and administrative data
 - Anomaly detection and risk decision support across finance, energy, and public safety
