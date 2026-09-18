@@ -17,7 +17,7 @@ title: 'Professional Activities'
 
 ## Teaching and Mentoring
 
-- [Business AI Innovative Talents Program](https://mp.weixin.qq.com/s/sfl5SWg-fEc1j-F6Dt_g7A), Instructor, SRIBD, Sept., 2025 -- Oct., 2025 
+- Business AI Innovative Talents Program, Instructor, SRIBD, Sept., 2025 -- Oct., 2025 
 - [Joint PhD Program](https://www.sribd.cn/en/article/928), Co-Supervisor, CUHK-Shenzhen, Sept., 2023 -- Sept., 2024
 - [Summer Lab Research Program](https://www.science.nus.edu.sg/wp-content/uploads/2023/01/CUHK-SZ-SLR-Programme-2023.pdf), Mentor, CUHK-Shenzhen, Summer Term, 2023
 
