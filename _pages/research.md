@@ -18,7 +18,7 @@ title: "Research Outcomes"
 1. Shan Dai; Jiayu Zhang; Zhelin Huang; __Shipei Zeng__\*. [Fire prediction and risk identification with interpretable machine learning](https://onlinelibrary.wiley.com/doi/10.1002/for.3266?af=R). _Journal of Forecasting_, 2025, 44(5): 1699--1715 (SSCI)
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_, 2025, 25(2): e70021 (SSCI)
 
-<h3 style="margin-left: 40px;">Other Publications</h3>
+   ### Other Publications
 
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_ 2025, 17: 6208--6226.
 1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167: 107391 (SCI)
