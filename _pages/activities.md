@@ -1,6 +1,6 @@
 ---
 permalink: /activities/
-title: 'Academic Activities'
+title: 'Professional Activities'
 ---
 Teaching and Mentoring
 ------
