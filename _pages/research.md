@@ -4,12 +4,14 @@ title: "Research Outcomes"
 ---
 ## Fields of Interest
 <h3 style="margin-left: 40px;">Digital Economy | Digital Government | AI for Social Science</h3>
+
 - AI evaluation, domain-specific LLMs, and data-driven intelligent governance for public services
 - Productivity and economic measurement using large-scale micro-level and administrative data
 - Anomaly detection and risk decision support across finance, energy, and public safety
 
 ## Publications
 <h3 style="margin-left: 40px;">Selected Publications</h3>   
+
 1. Zhangjie Huang, Hanli Lin, Jie Chen, Li Ai, Danlan Li, Yue Li, __Shipei Zeng__\*, Zhuodong Liu\*. [Impact of diagnosis-intervention packet compliance training on inpatient expenditures under case-based payment reform: A quasi-experimental study based on discharge records](https://www.dovepress.com/impact-of-diagnosis-intervention-packet-compliance-training-on-inpatie-peer-reviewed-fulltext-article-JMDH). _Journal of Multidisciplinary Healthcare_, 2026, 19: 621929 (SCI)
 1. __Shipei Zeng__; Kevin Fox\*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, 58(4): 289--298 (SSCI)
 1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457--2481 (SCI & SSCI)
@@ -17,6 +19,7 @@ title: "Research Outcomes"
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_, 2025, 25(2): e70021 (SSCI)
 
 <h3 style="margin-left: 40px;">Other Publications</h3>
+
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_ 2025, 17: 6208--6226.
 1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167: 107391 (SCI)
 1. 	__Shipei Zeng__\*. [Hedonic imputation with tree-based decision approaches](https://iariw.org/wp-content/uploads/2021/08/Hedonic_Imputation_Zeng_Paper.pdf). _36th International Association for Research in Income and Wealth General Conference_. Oslo, Norway (Online), from 2021-8-23 to 2021-8-27
