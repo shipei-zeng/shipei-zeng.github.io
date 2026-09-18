@@ -2,17 +2,18 @@
 permalink: /research/
 title: "Research Outcomes"
 ---
-<h2 style="margin-left: 40px;">Fields of Interest</h2>
-<h3 style="margin-left: 40px;">Digital Economy | Digital Government | AI for Social Science</h3>
+## Fields of Interest
+   **Digital Economy | Digital Government | AI for Social Science**
 - AI evaluation, domain-specific LLMs, and data-driven intelligent governance for public services
 - Productivity and economic measurement using large-scale micro-level and administrative data
 - Anomaly detection and risk decision support across finance, energy, and public safety
 
-<h2 style="margin-left: 40px;">Publications</h2>
+## Publications
    **Selected Publications**
 1. Zhangjie Huang, Hanli Lin, Jie Chen, Li Ai, Danlan Li, Yue Li, __Shipei Zeng__\*, Zhuodong Liu\*. [Impact of diagnosis-intervention packet compliance training on inpatient expenditures under case-based payment reform: A quasi-experimental study based on discharge records](https://www.dovepress.com/impact-of-diagnosis-intervention-packet-compliance-training-on-inpatie-peer-reviewed-fulltext-article-JMDH). _Journal of Multidisciplinary Healthcare_, 2026, 19: 621929 (SCI)
 1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457-2481 (SCI & SSCI)
 1. __Shipei Zeng__; Kevin Fox\*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, June 8: 1-10 (SSCI)
+   **Other Publications**
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_ 2025, May 2: 1-27 (SSCI)
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_ 2025, May 2: 1-19.
 1. Shan Dai; Jiayu Zhang; Zhelin Huang; __Shipei Zeng__\*. [Fire prediction and risk identification with interpretable machine learning](https://onlinelibrary.wiley.com/doi/10.1002/for.3266?af=R). _Journal of Forecasting_, 2025, Mar 2: 1-17 (SSCI)
