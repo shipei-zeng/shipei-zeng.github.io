@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: "Selected Publications"
+title: "Research Outcomes"
 ---
 <h2 style="margin-left: 40px;">Fields of Interest</h2>
 <h3 style="margin-left: 40px;">Digital Economy | Digital Government | AI for Social Science</h3>
@@ -9,8 +9,8 @@ title: "Selected Publications"
 - Productivity and economic measurement using large-scale micro-level and administrative data
 - Anomaly detection and risk decision support across finance, energy, and public safety
 
-Journal Articles
-------
+   ## Publications
+   ### Selected Publications
 1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457-2481 (SCI & SSCI)
 1. __Shipei Zeng__; Kevin Fox\*. [Productivity measurement with big data: A data-driven approach capturing firm heterogeneity](https://onlinelibrary.wiley.com/doi/10.1111/1467-8462.70014). _Australian Economic Review_ 2025, June 8: 1-10 (SSCI)
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_ 2025, May 2: 1-27 (SSCI)
