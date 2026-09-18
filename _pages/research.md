@@ -16,7 +16,7 @@ title: "Research Outcomes"
 1. Shan Dai; Jiayu Zhang; Zhelin Huang; __Shipei Zeng__\*. [Fire prediction and risk identification with interpretable machine learning](https://onlinelibrary.wiley.com/doi/10.1002/for.3266?af=R). _Journal of Forecasting_, 2025, 44(5): 1699--1715 (SSCI)
 1. __Shipei Zeng__; Shan Dai\*. [Synergizing domain knowledge and machine learning: Intelligent early fraud detection enhanced by earnings management analysis](https://onlinelibrary.wiley.com/doi/full/10.1111/irfi.70021). _International Review of Finance_, 2025, 25(2): e70021 (SSCI)
 
-   ### Other Publications
+<h3 style="margin-left: 40px;">Other Publications</h3>
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_ 2025, 17: 6208--6226.
 1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167: 107391 (SCI)
 1. 	__Shipei Zeng__\*. [Hedonic imputation with tree-based decision approaches](https://iariw.org/wp-content/uploads/2021/08/Hedonic_Imputation_Zeng_Paper.pdf). _36th International Association for Research in Income and Wealth General Conference_. Oslo, Norway (Online), from 2021-8-23 to 2021-8-27
@@ -27,18 +27,6 @@ title: "Research Outcomes"
 1. __Shipei Zeng__; Zhanming Chen\*. [Impact of fossil fuel subsidy reform in China: Estimations of household welfare effects based on 2007–2012 data](https://www.tandfonline.com/doi/full/10.1080/20954816.2016.1218669). _Economic and Political Studies_, 2016, 4: 299--318
 1. Chu Wei; Zhanming Chen; __Shipei Zeng__; Xiaohua Xia; Feng Song; Jieqi Wu; Ying Huang; Ping Qin; Wenjie Miao; Xiaobing Zhang. [Descriptive statistics of questionnaire data](https://link.springer.com/content/pdf/10.1007/978-981-13-7523-1_2.pdf). Household Energy Consumption in China: 2016 Report, 39-93
 1. __Shipei Zeng__; Hanwen Wang; Zhanming Chen\*; Rong Yu. [Derived from OSMM method: A plain analysis about oil security cost to China’s economy](https://link.springer.com/chapter/10.1007/978-3-662-44085-8_19). _2014 1st International Conference on Industrial Economics and Industrial Security_. Beijing, China, from 2014-7-23 to 2014-7-26
-
-Conferences
-------
-1. Shan Dai; Guoyong Yang; __Shipei Zeng__\*. Quantitative assessment of high quality development at the district level powered by big data: A case study of Shenzhen. _The 6th Annual Conference of the Evaluation Methods and Applications Sub-society_. Hangzhou, China, from 2023-6-10 to 2023-6-11
-1. Kai Zhang; Shan Dai; __Shipei Zeng__\*. Automated project evaluation in the era of big data: Informing the matching degree between proposals and outputs based on text analysis. _2023 Big Data and Statistical Science Interdisciplinary Academic Conference_. Shenzhen, China, from 2023-4-21 to 2023-4-23
-1. Shujuan Zhang; __Shipei Zeng__; Shan Dai\*. Prediction and causality in community fire safety management powered by urban big data. _The 22nd Annual Conference of Systems Engineering Society of China_. Dalian, China, from 2022-11-26 to 2022-11-27
-1. __Shipei Zeng__\*. [Frontier firms, inefficiency and productivity dynamics](https://iariw.org/wp-content/uploads/2021/08/Firm_Dynamics_Zeng_Paper.pdf). _36th International Association for Research in Income and Wealth General Conference_. Oslo, Norway (Online), from 2021-8-23 to 2021-8-27
-1. __Shipei Zeng__\*. [Hedonic imputation with tree-based decision approaches](https://iariw.org/wp-content/uploads/2021/08/Hedonic_Imputation_Zeng_Paper.pdf). _36th International Association for Research in Income and Wealth General Conference_. Oslo, Norway (Online), from 2021-8-23 to 2021-8-27
-1. __Shipei Zeng__; Stephanie Parsons; Erwin Diewert; Kevin Fox\*. [Industry and state level value added and productivity decompositions](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf). _EMG Workshop 2018_. Sydney, Australia, from 2018-11-29 to 2018-11-30
-1. Kevin Fox\*; Khanh Hoang; __Shipei Zeng__. Value added and productivity decompositions with natural capital. _ESCoE Conference on Economic Measurement 2018, Bank of England_. London, the UK, from 2018-5-16 to 2018-5-17
-1. Zhanming Chen; __Shipei Zeng__; Leo Lester; Xiaohua Xia; Linting Zhang. [How costly is China's oil import? Welfare loss estimation of foreign oil dependence 2001–2015](https://www.iaee.org/proceedings/article/14278). _40th IAEE International Conference_. Singapore, from 2017-6-18 to 2017-6-21
-1. __Shipei Zeng__; Zhanming Chen\*; Jin Guo. Price elasticities of residential natural gas demand in China: Evidence from household-level survey data. _The 19th Annual Conference of Systems Engineering Society of China_. Beijing, China, from 2016-10-28 to 2016-10-31
 
 Patents
 ------
