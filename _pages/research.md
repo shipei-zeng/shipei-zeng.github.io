@@ -33,16 +33,15 @@ title: "Research Outcomes"
 
 ## Patents
 
-1. Label evaluation: method and apparatus 标签评估方法以及装置, ZL202511500351.3
-1. Intelligent processing of government work orders based on spatio-temporal semantic clustering and large language models: method and system 基于时空语义聚类与大语言模型的政务工单智能处理方法及系统, ZL202511333257.3
-1. Quantifiable indicator system construction based on semantic extraction and alignment: method and apparatus 基于语义提取与对齐的可量化指标体系构建方法及装置, ZL202511277341.8
-1. Telephone number recognition: method, apparatus, electronic device, and storage medium 电话号码识别方法和装置、电子设备及存储介质, ZL202510117371.6
-1. Coordinate coding-based quantitative index system generation and diagnosis: method and system 基于坐标编码的量化指标体系生成及诊断方法以及系统,  ZL202310339635.3
-1. Text analysis-based scientific research project output evaluation and acceptance: method and system 基于文本分析的科研项目产出评价验收方法及系统, ZL202211251387.9
-1. Credit evaluation: method, apparatus, and storage medium 信用评价方法、装置及存储介质, CN20
-	2510682938.4	
-1. Enterprise evaluation accuracy enhancement: method, apparatus, computer device, and medium 提升企业评价准确性的方法、装置、计算机设备及介质, CN202311395648.9
-1. Multi-source data fusion machine learning for fire prediction and hazard identification: method and system 多源数据融合的机器学习火灾预测与隐患识别方法及系统, CN202210977272.1
+1. 标签评估方法以及装置, ZL202511500351.3
+1. 基于时空语义聚类与大语言模型的政务工单智能处理方法及系统, ZL202511333257.3
+1. 基于语义提取与对齐的可量化指标体系构建方法及装置, ZL202511277341.8
+1. 电话号码识别方法和装置、电子设备及存储介质, ZL202510117371.6
+1. 基于坐标编码的量化指标体系生成及诊断方法以及系统,  ZL202310339635.3
+1. 基于文本分析的科研项目产出评价验收方法及系统, ZL202211251387.9
+1. 信用评价方法、装置及存储介质, CN202510682938.4	
+1. 提升企业评价准确性的方法、装置、计算机设备及介质, CN202311395648.9
+1. 多源数据融合的机器学习火灾预测与隐患识别方法及系统, CN202210977272.1
 
 Coding
 ------
