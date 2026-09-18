@@ -25,3 +25,5 @@ title: 'Professional Activities'
 
 [Nanshan AI Lecture](https://mp.weixin.qq.com/s/6tr0wYpImuYcXatWrdRY3g) (2025), [CUHK-Shenzhen HSS Lecture](https://hss.cuhk.edu.cn/event/1424) (2024), UPDIS Smart City Lecture (2024), [Longgang Industry Alliance Lecture](https://mp.weixin.qq.com/s/OukZ2f5zh07VhxOrXAGYfg) (2023), [Evaluation Society Conference](https://mp.weixin.qq.com/s/64PAUxEkqe9GdTMwKMRrCA) (2023), [Society for Economic Measurement Conference](https://sem-society.org/sem-2019-sixth-annual-conference-goethe-university-frankfurt-germany/) (2019), Productivity Research Network Conference (2019), [EMG Workshop](https://conference.unsw.edu.au/content/dam/pdfs/business/caer/research-reports/emg-workshop-2018/emg2018-6_SZeng_EMG-Slides.pdf) (2018), Chinese Energy & Environmental Economists Forum (2017), Systems Engineering Society of China Conference (2016).
 
+## Referee
+Journal of Forecasting,	Journal of International Financial Markets Institutions & Money, Computational Economics, Environment Development & Sustainability, Humanities & Social Sciences Communications.
