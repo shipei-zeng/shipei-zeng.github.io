@@ -3,13 +3,12 @@ permalink: /research/
 title: "Research Outcomes"
 ---
 <h2 style="margin-left: 40px;">Fields of Interest</h2>
-
-**Digital Economy | Digital Government | AI for Social Science**
+<h3 style="margin-left: 40px;">Digital Economy | Digital Government | AI for Social Science</h3>
 - AI evaluation, domain-specific LLMs, and data-driven intelligent governance for public services
 - Productivity and economic measurement using large-scale micro-level and administrative data
 - Anomaly detection and risk decision support across finance, energy, and public safety
 
-   ## Publications
+<h2 style="margin-left: 40px;">Publications</h2>
    **Selected Publications**
 1. Zhangjie Huang, Hanli Lin, Jie Chen, Li Ai, Danlan Li, Yue Li, __Shipei Zeng__\*, Zhuodong Liu\*. [Impact of diagnosis-intervention packet compliance training on inpatient expenditures under case-based payment reform: A quasi-experimental study based on discharge records](https://www.dovepress.com/impact-of-diagnosis-intervention-packet-compliance-training-on-inpatie-peer-reviewed-fulltext-article-JMDH). _Journal of Multidisciplinary Healthcare_, 2026, 19: 621929 (SCI)
 1. __Shipei Zeng__\*; Deyu Rao. [Random forests with economic roots: Explaining machine learning in hedonic imputation](https://link.springer.com/article/10.1007/s10614-024-10798-9). _Computational Economics_, 2025, 66: 2457-2481 (SCI & SSCI)
