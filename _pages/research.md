@@ -20,7 +20,7 @@ title: "Research Outcomes"
 
    ### Other Publications
 
-1. __Shipei Zeng__; Stephanie Parsons; Erwin Diewert; Kevin Fox\*. [Productivity inequality](https://www.repository-escoe.com/id/eprint/106/1/ESCoE\%20DP\%202026-14.pdf). _Economic Statistics Centre of Excellence_, 2026, ESCoE Discussion Paper 2026-14
+1. __Shipei Zeng__; Stephanie Parsons; Erwin Diewert; Kevin Fox\*. [Productivity inequality](https://www.repository-escoe.com/id/eprint/106/1/ESCoE%20DP%202026-14.pdf). _Economic Statistics Centre of Excellence_, 2026, ESCoE Discussion Paper 2026-14
 1. __Shipei Zeng__; Jie Chen\*. [Empowerment of smart governance for local governments in China: Lessons from Shenzhen](https://link.springer.com/article/10.1007/s13132-025-02761-2). _Journal of the Knowledge Economy_, 2025, 17: 6208--6226.
 1. Ximing Zhang; Huan Xu; Qiuling Yu; __Shipei Zeng__; Shan Dai; Haowen Yang; Shuhan Wu\*. [License recommendation for open source projects in the power industry](https://www.sciencedirect.com/science/article/abs/pii/S095058492300246X). _Information and Software Technology_, 2024, 167: 107391 (SCI)
 1. 	__Shipei Zeng__\*. [Hedonic imputation with tree-based decision approaches](https://iariw.org/wp-content/uploads/2021/08/Hedonic_Imputation_Zeng_Paper.pdf). _36th International Association for Research in Income and Wealth General Conference_. Oslo, Norway (Online), from 2021-8-23 to 2021-8-27
